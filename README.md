@@ -1,2 +1,2 @@
 # testProject
-Gitと友だちになろう
+Git Hubを使ってみよう
